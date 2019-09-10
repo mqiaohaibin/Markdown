@@ -25,7 +25,7 @@ Note that Markdown formatting syntax is not processed within block-level HTML ta
 In HTML, there are two characters that demand special treatment: < and &. Markdown allows to use these characters naturally, taking care of all the necessary escaping for you.
 
 
-## SYNTAX
+## [SYNTAX](syntax.md)
 
 ### Block Elements
 
