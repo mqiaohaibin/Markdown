@@ -50,7 +50,7 @@ In HTML, there are two characters that demand special treatment: < and &. Markdo
 * Automatic Links
 
 
-## STYLE GUIDE
+## [STYLE GUIDE](style_guide.md)
 
 Much of what makes Markdown great is the ability to write plain text, and get great formatted output as a result.
 
@@ -67,3 +67,4 @@ We seek to balance three goals:
 * https://www.markdownguide.org/basic-syntax
 * https://www.markdownguide.org/extended-syntax
 * https://github.com/google/styleguide/blob/gh-pages/docguide/style.md
+* https://spec.commonmark.org/
